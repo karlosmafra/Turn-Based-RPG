@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scripts_bestiary",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scripts_bestiary",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
