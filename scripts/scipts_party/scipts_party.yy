@@ -1,5 +1,5 @@
 {
-  "$GMScript":"",
+  "$GMScript":"v1",
   "%Name":"scipts_party",
   "isCompatibility":false,
   "isDnD":false,

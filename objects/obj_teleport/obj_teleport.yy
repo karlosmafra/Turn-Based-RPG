@@ -24,9 +24,9 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"","%Name":"x_destiny","filters":[],"listItems":[],"multiselect":false,"name":"x_destiny","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
-    {"$GMObjectProperty":"","%Name":"y_destiny","filters":[],"listItems":[],"multiselect":false,"name":"y_destiny","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
-    {"$GMObjectProperty":"","%Name":"room_destiny","filters":[],"listItems":[],"multiselect":false,"name":"room_destiny","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"x_destiny","filters":[],"listItems":[],"multiselect":false,"name":"x_destiny","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"y_destiny","filters":[],"listItems":[],"multiselect":false,"name":"y_destiny","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
+    {"$GMObjectProperty":"v1","%Name":"room_destiny","filters":[],"listItems":[],"multiselect":false,"name":"room_destiny","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":null,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
